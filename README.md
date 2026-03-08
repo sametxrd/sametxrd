@@ -1,4 +1,4 @@
-[![MasterHead](https://medium.com/@CelestialDevStory/how-create-a-new-github-repository-d980f607bc65)
+[![MasterHead]([https://medium.com/@CelestialDevStory/how-create-a-new-github-repository-d980f607bc65](https://stablediffusionweb.com/image/30116283-professional-linkedin-banner-for-full-stack-developer))
 # Hi 👋, I'm Samet
 
 ### Building modern web experiences with React, NestJS, and SQL
