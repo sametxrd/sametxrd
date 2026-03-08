@@ -1,4 +1,3 @@
-[![MasterHead]()
 # Hi 👋, I'm Samet
 
 ### Building modern web experiences with React, NestJS, and SQL
